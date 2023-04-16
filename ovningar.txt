@@ -37,7 +37,7 @@
 - Se arg ut
 - Se glad ut
 - Se ledsen ut
-- Låssas gråta
+- Låtsas gråta
 - Se rädd ut
 - Låssas gäspa
 - Turtagningslek med spelbrickor (4a i rad)

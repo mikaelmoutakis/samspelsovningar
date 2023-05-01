@@ -56,3 +56,4 @@
 - Matcha numicon-brickor med sifferkort
 - Skriva/rita med penna och pennhållargrepp
 - Göra övningar en viss tidslängd
+- Öva på att skriva av meningar med "widgit writer"-appen på hans iPad 

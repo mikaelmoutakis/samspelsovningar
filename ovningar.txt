@@ -54,19 +54,19 @@
 - Se ledsen ut
 - Se rädd ut
 - Skaka nej med huvudet
-- Skola: fråga hur dagen varit med hjälp av glada/ledsna ansikten/emojis
-- Skola: gå igenom dagens schema före avfärd hemifrån
-- Skola: gå på toaletten själv
-- Skola: hålla penna
-- Skola: klippa papper
-- Skola: klättra ur och i lådcykeln själv
-- Skola: läsa upp ett ord och be honom peka ut ordet utifrån en lista av ord
-- Skola: matcha tärningssidor med siffror
-- Skola: peka på ord som rimmar med varandra 
-- Skola: påklädning
-- Skola: skriva sitt namn
-- Skola: ta upp mat själv
-- Skola: öva på plus och likhetstecken
+- fråga hur dagen varit med hjälp av glada/ledsna ansikten/emojis
+- gå igenom dagens schema före avfärd hemifrån
+- gå på toaletten själv
+- hålla penna
+- klippa papper
+- klättra ur och i lådcykeln själv
+- läsa upp ett ord och be honom peka ut ordet utifrån en lista av ord
+- matcha tärningssidor med siffror
+- peka på ord som rimmar med varandra 
+- påklädning
+- skriva sitt namn
+- ta upp mat själv
+- öva på plus och likhetstecken
 - Skriva/rita med penna och pennhållargrepp
 - Spela på instrument som marackas, trummor, klockor och xylofon
 - Stå på en fot
